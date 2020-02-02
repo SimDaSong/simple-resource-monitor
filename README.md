@@ -6,10 +6,6 @@
 
 * C++
 
-## Project Flow Chart
-
-<img src="images/flowchart.png"></img>
-
 ## Project Result
 실행 화면
 <img src="images/result.png"></img>
